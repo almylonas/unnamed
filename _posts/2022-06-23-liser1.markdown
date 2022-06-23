@@ -4,7 +4,9 @@ title:  "Thoughts about LISER (Part 1)"
 date:   2022-06-23
 categories: beam
 ---
-As you may know, I was a member of the LISER project (**LI**fe **S**ustainability **E**xamination (with) **R**adiation).  
+As you may know, I was a member of the LISER project (**LI**fe **S**ustainability **E**xamination (with) **R**adiation).
+
+
 The mission of this project was to detect ionizing radiation through a scintillator, which is the source of natural radioactive isotopes and cosmic radiation of an environment and based on this percentage of radiation, can determine how radioactive a planet or an arean on Earth is. The scintillator was supposed to be launched one kilometer above the earth’s surface into a can-sized "satellite" that performs other measurements too, like temperature, atmoshperic pressure etc..
 
 In this post, I'll talk about the general problems that caused this project fail its purpose, without diving into the deepest problems of the project and the team.  
