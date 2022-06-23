@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/dark.css"
 logo: "/images/your-logo.png.png"
 plugins:
