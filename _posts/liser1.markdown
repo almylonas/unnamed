@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thoughts about LISER (Part 1)"
-date:   2022-06-23
+date:   2022-06-24
 categories: beam
 ---
 As you may know, I was a member of the LISER project (**LI**fe **S**ustainability **E**xamination (with) **R**adiation).  
